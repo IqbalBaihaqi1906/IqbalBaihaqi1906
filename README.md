@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest JS and Golang**
 
-- 📫 How to reach me **at my instagram https:@iqball__b**
+- 📫 How to reach me **at my email iqballbaihaqi1906**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
