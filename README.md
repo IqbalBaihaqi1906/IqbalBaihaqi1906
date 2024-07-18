@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **InterAktiv Technologies Pte Ltd**
 
-- 🌱 I’m currently learning **Nest JS and Golang**
-
 - 📫 How to reach me **at my email iqballbaihaqi1906**
 
 <h3 align="left">Connect with me:</h3>
