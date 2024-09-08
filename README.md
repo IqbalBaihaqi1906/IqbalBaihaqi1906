@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iqbal !!</h1>
 <h3 align="center">Fuelled by passion, driven by code. Let's build something amazing together! 💪💻</h3>
 
-- 🔭 I’m currently working on **InterAktiv Technologies Pte Ltd**
+- 🔭 I’m currently working on **XCIDIC**
 
 - 📫 How to reach me **at my email iqballbaihaqi1906**
 
